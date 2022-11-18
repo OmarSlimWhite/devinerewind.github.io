@@ -1,0 +1,63 @@
+{
+  "short_name": "DevineRewind",
+  "name": "Devine Rewind",
+  "icons": [
+    {
+      "src": "logoMobile.png",
+      "type": "image/png",
+      "sizes": "192x104"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logoMobile.png",
+      "type": "image/png",
+      "sizes": "192x104",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "description": "An Awesome writing technology",
+  "display": "standalone",
+  "theme_color": "#C528FF",
+  "background_color": "#fff",
+  "shortcuts": [
+    {
+      "short_name": "DevineRewind",
+      "name": "Devine Rewind",
+      "description": "An Awesome writing technology",
+      "url": "/",
+      "icons": [
+        {
+          "src": "logoMobile.png",
+          "type": "image/png",
+          "sizes": "192x104",
+          "purpose": "any maskable"
+        }
+      ]
+    }
+  ]
+}
